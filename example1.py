@@ -9,3 +9,9 @@ f = 1000
 # adding below line from sanjana account to collabarte with shyam
 
 Print ("Hi, i am very glad to work with you")
+
+# after adding rules to user 1 trying one mor print
+
+hi, hello
+
+cretaing this line from collab
